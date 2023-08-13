@@ -13,7 +13,7 @@ import java.util.PriorityQueue;
  * of differences, and a method to calculate the Gini Coefficient, which are
  * all described in further detail in the code below.
  * 
- * @author Riley OKeefe (A00460983)
+ * @author Riley OKeefe
  */
 public class Gini {
 
