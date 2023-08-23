@@ -1,5 +1,3 @@
-package a06;
-
 import java.util.Scanner;
 import java.util.PriorityQueue;
 
@@ -183,7 +181,7 @@ public class Gini {
         System.out.println("Gini Coefficient Calculator");
         System.out.println("---------------------------\n");
         System.out.println("Reads incomes and reports the Gini coefficient.");
-        System.out.println("\nby Riley OKeefe (A00460983)");
+        System.out.println("\nby Riley OKeefe");
     }
 
     /**
